@@ -1,0 +1,6 @@
+name: SimpleExp
+version: '${project.version}'
+main: com.github.akagiant.simpleexp.SimpleExp
+api-version: 1.19
+authors: [AkaGiant]
+description: A Simple Exp Management Plugin
